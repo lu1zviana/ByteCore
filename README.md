@@ -3,7 +3,7 @@
 <h3><b>Byte Core</b> é uma empresa que oferece serviço de Sistemas próprios
 Para empresas Autênticas ❗</h3>
 
-<b> website: </b> <a target="_blank">https://bytecore1.netlify.app/</a>
+<b> website: </b> <a target="_blank" rel="noopener noreferrer">https://bytecore1.netlify.app/</a>
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8e333225-af52-437c-9b7f-f0eff8ba205a" />
 <img width="1347" height="416" alt="image" src="https://github.com/user-attachments/assets/dcf66d18-1f50-4731-ac71-2dc717dac262" />
