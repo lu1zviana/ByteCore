@@ -100,9 +100,6 @@ The page includes:
 ## Credits
 
 - Developed by Luiz Viana.
-- Custom template and layout.
-- Images and mockups should be your own or copyright-free.
-- Fonts via [Google Fonts](https://fonts.google.com/).
 
 ---
 
