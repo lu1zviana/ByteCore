@@ -1,4 +1,4 @@
-# Project 03 - Responsive Web Page
+# ByteCore - Responsive Web Page
 
 This project is a responsive web page developed with HTML and CSS. The goal is to present a company website, with sections for services, about, team, contact, and location. The design is modern and adapted for different devices.
 
