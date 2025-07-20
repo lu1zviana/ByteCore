@@ -103,7 +103,3 @@ The page includes:
 
 ---
 
-## License
-
-This project is free for use and modification. If you reuse it, keep the original author credits.
-
