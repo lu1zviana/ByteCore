@@ -99,7 +99,7 @@ The page includes:
 
 ## Credits
 
-- Developed by Luiz Viana.
+- Made by [@lu1zviana](https://github.com/lu1zviana)
 
 ---
 
